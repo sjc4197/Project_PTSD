@@ -1,6 +1,3 @@
-# Project_PTSD
-Port Terminal Ship Time Delay Prediction project
-
 # PTSD 프로젝트: 항만 내 선박 대기시간 예측
 
 ---
